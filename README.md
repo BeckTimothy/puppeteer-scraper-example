@@ -1,0 +1,1 @@
+Example webscraping project built to introduce friend to puppeteer for webscraping documentation for model training.
