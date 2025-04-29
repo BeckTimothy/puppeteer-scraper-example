@@ -2,7 +2,7 @@ Example webscraping project built to introduce friend to puppeteer for webscrapi
 
 ### To run:
 
-###### Step 1. Install Node.js and Git
+###### Step 1. Install npm, Node.js, and Git
 
 ###### Step 2. Set-up repo
 
